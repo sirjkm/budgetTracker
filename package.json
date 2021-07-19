@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/sirjkm/budgetTracker/issues"
   },
-  "homepage": "https://github.com/sirjkm/budgetTracker#readme"
+  "homepage": "https://github.com/sirjkm/budgetTracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "exprexx": "^1.0.0",
+    "mongoose": "^5.13.3",
+    "morgan": "^1.10.0"
+  }
 }
